@@ -1,0 +1,1 @@
+{"problem": "A textile dye containing an extensively conjugated pi-electrons emits light with energy of 2.3393 eV. What color of light is absorbed by the organic compound? \nChoices:\n(A) Violet\n(B) Blue\n(C) Red\n(D) Yellow", "answer": "C", "output": "So, the correct answer is:\n\n\\boxed{(C) \\text{Red}}", "completion_tokens": 18, "finish_reason": "STOP", "pred": "C"}

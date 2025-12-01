@@ -1,0 +1,261 @@
+chat:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 16000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+r1:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+qwq:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+dapo-qwen-32b:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 1.0
+    top_p: 0.7
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 10120
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 1.0
+    top_p: 0.7
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 20480
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 1.0
+    top_p: 0.7
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 20480
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 1.0
+    top_p: 0.7
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 20480
+gpt-oss-120b:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 8000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 8000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 8000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 8000
+r1-distill-qwen:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+phi4:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+qwen3-235b:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 5000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 5000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 5000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 5000
+qwen3:
+  gpqa:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 16000
+  aime2024:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-i:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000
+  aime2025-ii:
+    max_num_beams: 8
+    max_num_samples: 8
+    temperature: 0.6
+    top_p: 0.95
+    stop_strings: ["Final Answer", "**Final Answer**"]
+    max_tokens: 32000

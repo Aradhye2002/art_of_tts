@@ -1,0 +1,1 @@
+{"problem": "Let us assume stars are uniformly distributed in the sky. In this scenario, how the number of stars per unit range of parallax (plx) changes with plx? \nChoices:\n(A) ~ 1/plx^4\n(B) ~ 1/plx^2\n(C) ~ 1/plx^3\n(D) ~ 1/plx^1", "answer": "A", "output": "So, the correct answer is:\n\n\\boxed{(C)}", "completion_tokens": 13, "finish_reason": "STOP", "pred": "C"}
